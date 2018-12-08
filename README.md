@@ -1,0 +1,2 @@
+# BetterDiscordSFW
+Your Grandmothers Themes.
