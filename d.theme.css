@@ -1,0 +1,51 @@
+//META{"name":"On","description":"this is to make yours and mine job easier","author":"Corbs#0001","version":"AutoUpdate"}*//{}
+
+@import url("");
+:root {
+    --custombackground: url(https://source.unsplash.com/random);
+    --blur: 0px !important;
+    --opacitybg: 0.5 !important;
+
+    --accentcolor: #738bd7 !important;   /* To reset the color back to default, use #738bd7 */
+    --accenttext: white !important; /* Use this to change the text colors that are on top of the accentcolor, this is to help make text readable if you're using a bright accent color */
+    
+    --fontchat: Whitney !important;
+    --fontcategoryname: Whitney !important;
+    --fontrolename: Whitney !important;
+    --fontchannelname: Whitney !important;
+    --fonttooltip: Whitney !important;
+    --fontusername: Whitney !important;
+  
+    --fontchatsize: 15px !important;
+    --fontcategorynamesize: 12px !important;
+    --fontrolenamesize: 12px !important;
+    --fontchannelnamesize: 16px !important;
+    --fonttooltipsize: 14px !important;
+    --fontusernamesize: 15px !important;
+    
+    --colorbar: white !important;
+    --widthbar: 14px !important;
+
+    --serverselected: red !important;
+    --serverunread: white !important;
+
+    --homeicon: url(https://cdn.discordapp.com/attachments/463532696820383754/489649105006493697/TheDWinkyFace.png);
+    
+    --avatar: 40px !important;
+    
+    --emojisize: 30px  !important;
+    --emojimenuheight: 374px !important;
+
+    --closeButton: url();
+    --maxButton: url();
+    --minButton: url();
+    --sizeOfButtons: 16px;
+    
+    --defaulttb: 1 !important; /* change to 0 to hide default icons */
+    
+    --backgroundpopup: 1 !important; /* 0 for no background or 0.5 or half transparency */
+}
+  @import url(https://cdn.staticaly.com/gh/CorbsEditor/Themes-for-BetterDiscord/master/Expose%20X/Templates/Titlebar/Windows10Size.theme.css);
+  @import url(https://cdn.staticaly.com/gh/CorbsEditor/Themes-for-BetterDiscord/master/Expose%20X/Templates/Titlebar/Default.theme.css);
+  @import url(https://cdn.staticaly.com/gh/CorbsEditor/Themes-for-BetterDiscord/master/Expose%20X/Templates/macOS%20Titlebar/Default.theme.css);
+  @import url(https://cdn.staticaly.com/gh/CorbsEditor/Themes-for-BetterDiscord/master/Expose%20X/Templates/Upload%20Modal/Default.theme.css);
