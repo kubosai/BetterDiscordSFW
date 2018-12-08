@@ -1,6 +1,6 @@
 //META{"name":"On","description":"this is to make yours and mine job easier","author":"Corbs#0001","version":"AutoUpdate"}*//{}
 
-@import url("");
+@import url("https://cdn.staticaly.com/gh/kubosai/BetterDiscordSFW/17736f4a/d.theme.css");
 :root {
     --custombackground: url(https://source.unsplash.com/random);
     --blur: 0px !important;
